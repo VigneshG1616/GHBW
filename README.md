@@ -14,3 +14,6 @@ http://codingheroes.io/resources/
 
 ## Media Queries for Standard Devices
 https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+
+## Validate CSS
+https://jigsaw.w3.org/css-validator/
