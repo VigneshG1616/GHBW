@@ -17,3 +17,6 @@ https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 
 ## Validate CSS
 https://jigsaw.w3.org/css-validator/
+
+## Clearfix
+https://www.w3schools.com/howto/howto_css_clearfix.asp
