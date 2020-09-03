@@ -19,6 +19,6 @@ https://www.youtube.com/watch?v=Xs4uzHm_8-o
 http://codingheroes.io/resources/
 
 
-## Service Img
+## Media Queries for Standard Devices
 
-istockphoto.com/search/more-like-this/910806154?assettype=image&family=creative&istockcollection=main,value&mediatype=photography&phrase=opened%20pc
+https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
