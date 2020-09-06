@@ -20,3 +20,9 @@ https://jigsaw.w3.org/css-validator/
 
 ## Clearfix
 https://www.w3schools.com/howto/howto_css_clearfix.asp
+
+## Normalize.css
+https://necolas.github.io/normalize.css/
+
+## Responsively
+https://responsively.app/
