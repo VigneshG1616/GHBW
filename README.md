@@ -29,3 +29,5 @@ https://responsively.app/
 
 ## Responsive Grid System
 http://www.responsivegridsystem.com/
+              or
+[Use grid.css modified by Jonas](./resources/responsive_grid_css_file)
