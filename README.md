@@ -32,5 +32,5 @@ http://www.responsivegridsystem.com/
               or
 [Use grid.css modified by Jonas](./sources/responsive_grid_css_file)
 
-## WP Plugins
+## WP Plugins + Migration
 https://www.smashingmagazine.com/2013/05/migrate-existing-website-to-wordpress/
