@@ -1,5 +1,5 @@
 ## JOB SHEET
-[Open](./sources/job_sheet/Job_Sheet.html)
+[Open](https://docs.google.com/spreadsheets/d/1aSDFCoOps3AJWupZcccjM3zrDsTTdVR0Mgw0YNWb9Uk/edit?usp=sharing)
 
 
 ## Imp
