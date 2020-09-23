@@ -1,5 +1,5 @@
 ## JOB SHEET
-[Open] (./
+[Open] (./sources/job_sheet/Job_Sheet.html)
 
 
 ## Imp
