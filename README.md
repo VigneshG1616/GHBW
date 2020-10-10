@@ -46,3 +46,5 @@ https://downloadly.net/2020/27/21607/09/adobe-xd-ui-ux-design-with-14-real-world
 https://www.pagecloud.com/blog/css-animations
 
 https://fireart.studio/blog/10-best-website-animation-techniques-for-your-web-design/
+
+https://designshack.net/articles/graphics/an-introduction-to-animation-in-web-design/
